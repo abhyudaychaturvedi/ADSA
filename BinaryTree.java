@@ -26,7 +26,6 @@ public class BinaryTree{
         second.right=fifth;
         third.left=sixth;
         third.right=seventh;
-
     }
     public void preOrder(TreeNode root){
         if(root==null){
